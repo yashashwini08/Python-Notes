@@ -49,7 +49,7 @@ Welcome to our comprehensive Python study repository! This collection of notes a
 
 ## ✅ Contribution
 
-This project was created by [Your Name] and [Friend's Name] as a personal learning initiative. Feel free to **fork**, **star**, or **open issues** for suggestions or doubts!
+This project was created by M Yashashwini Sai and Aaftab Zohra as a personal learning initiative. Feel free to **fork**, **star**, or **open issues** for suggestions or doubts!
 
 ---
 
