@@ -56,8 +56,8 @@ This project was created by M Yashashwini Sai and Aaftab Zohra as a personal lea
 ## 📬 Contact
 
 If you find this helpful or want to collaborate:
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- 📧 Email: yashumagam@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/yashashwini-magam/
 
 ---
 
